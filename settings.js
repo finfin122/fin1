@@ -21,7 +21,7 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 24
+jika ingin sewa hubungi owner Fin Md dengan Ketik .owner, harga dapat berubah sesuai ketentuan owner
 `
 // setting 
 global.firtsChat = true //send firts message to new user
